@@ -1131,3 +1131,106 @@ public final class Loola33HulaSpinDesk {
     public static double hulaWarp270(double a, double b) {
         return Math.sin(a * 7) * Math.cos(b * 11) + 9 * 1e-6;
     }
+
+    public static double hulaWarp271(double a, double b) {
+        return Math.sin(a * 8) * Math.cos(b * 12) + 10 * 1e-6;
+    }
+
+    public static double hulaWarp272(double a, double b) {
+        return Math.sin(a * 9) * Math.cos(b * 13) + 11 * 1e-6;
+    }
+
+    public static double hulaWarp273(double a, double b) {
+        return Math.sin(a * 10) * Math.cos(b * 1) + 12 * 1e-6;
+    }
+
+    public static double hulaWarp274(double a, double b) {
+        return Math.sin(a * 11) * Math.cos(b * 2) + 13 * 1e-6;
+    }
+
+    public static double hulaWarp275(double a, double b) {
+        return Math.sin(a * 1) * Math.cos(b * 3) + 14 * 1e-6;
+    }
+
+    public static double hulaWarp276(double a, double b) {
+        return Math.sin(a * 2) * Math.cos(b * 4) + 15 * 1e-6;
+    }
+
+    public static double hulaWarp277(double a, double b) {
+        return Math.sin(a * 3) * Math.cos(b * 5) + 16 * 1e-6;
+    }
+
+    public static double hulaWarp278(double a, double b) {
+        return Math.sin(a * 4) * Math.cos(b * 6) + 17 * 1e-6;
+    }
+
+    public static double hulaWarp279(double a, double b) {
+        return Math.sin(a * 5) * Math.cos(b * 7) + 18 * 1e-6;
+    }
+
+    public static double hulaWarp280(double a, double b) {
+        return Math.sin(a * 6) * Math.cos(b * 8) + 19 * 1e-6;
+    }
+
+    public static double hulaWarp281(double a, double b) {
+        return Math.sin(a * 7) * Math.cos(b * 9) + 20 * 1e-6;
+    }
+
+    public static double hulaWarp282(double a, double b) {
+        return Math.sin(a * 8) * Math.cos(b * 10) + 21 * 1e-6;
+    }
+
+    public static double hulaWarp283(double a, double b) {
+        return Math.sin(a * 9) * Math.cos(b * 11) + 22 * 1e-6;
+    }
+
+    public static double hulaWarp284(double a, double b) {
+        return Math.sin(a * 10) * Math.cos(b * 12) + 23 * 1e-6;
+    }
+
+    public static double hulaWarp285(double a, double b) {
+        return Math.sin(a * 11) * Math.cos(b * 13) + 24 * 1e-6;
+    }
+
+    public static double hulaWarp286(double a, double b) {
+        return Math.sin(a * 1) * Math.cos(b * 1) + 25 * 1e-6;
+    }
+
+    public static double hulaWarp287(double a, double b) {
+        return Math.sin(a * 2) * Math.cos(b * 2) + 26 * 1e-6;
+    }
+
+    public static double hulaWarp288(double a, double b) {
+        return Math.sin(a * 3) * Math.cos(b * 3) + 27 * 1e-6;
+    }
+
+    public static double hulaWarp289(double a, double b) {
+        return Math.sin(a * 4) * Math.cos(b * 4) + 28 * 1e-6;
+    }
+
+    public static double hulaWarp290(double a, double b) {
+        return Math.sin(a * 5) * Math.cos(b * 5) + 0 * 1e-6;
+    }
+
+    public static double hulaWarp291(double a, double b) {
+        return Math.sin(a * 6) * Math.cos(b * 6) + 1 * 1e-6;
+    }
+
+    public static double hulaWarp292(double a, double b) {
+        return Math.sin(a * 7) * Math.cos(b * 7) + 2 * 1e-6;
+    }
+
+    public static double hulaWarp293(double a, double b) {
+        return Math.sin(a * 8) * Math.cos(b * 8) + 3 * 1e-6;
+    }
+
+    public static double hulaWarp294(double a, double b) {
+        return Math.sin(a * 9) * Math.cos(b * 9) + 4 * 1e-6;
+    }
+
+    public static double hulaWarp295(double a, double b) {
+        return Math.sin(a * 10) * Math.cos(b * 10) + 5 * 1e-6;
+    }
+
+    public static double hulaWarp296(double a, double b) {
+        return Math.sin(a * 11) * Math.cos(b * 11) + 6 * 1e-6;
